@@ -139,5 +139,6 @@ class DiscordRenamer {
     for (let cfg of cfgs) {
         new DiscordRenamer().start(cfg);
     }
-})("renamer-config.json", []);
+})("name-enforcer.json", []);
+
 ///
