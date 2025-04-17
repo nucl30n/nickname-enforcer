@@ -16,7 +16,8 @@ To use this script, follow these steps:
 
 Here's an example config with two different servers
 
-```[
+```
+[
     {
         "userId": "4000000000000000000",
         "intendedName": "Name111",
@@ -29,4 +30,5 @@ Here's an example config with two different servers
         "auth": "YOUR_DISCORD_TOKEN_HERE",
         "guild": "22222222222222222222"
     }
-]```
+] 
+```
